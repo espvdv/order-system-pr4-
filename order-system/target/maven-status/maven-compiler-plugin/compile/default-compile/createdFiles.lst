@@ -1,0 +1,13 @@
+com\shop\products\Electronics$ElectronicsBuilderImpl.class
+com\shop\app\Main.class
+com\shop\processing\OrderProcessor.class
+com\shop\products\Clothing$ClothingBuilder.class
+com\shop\processing\OrderProcessingException.class
+com\shop\products\Electronics$ElectronicsBuilder.class
+com\shop\products\Product$ProductBuilder.class
+com\shop\products\Clothing.class
+com\shop\products\Electronics.class
+com\shop\products\Product.class
+com\shop\threads\ThreadManager.class
+com\shop\products\Clothing$ClothingBuilderImpl.class
+com\shop\storage\OrderRepository.class
